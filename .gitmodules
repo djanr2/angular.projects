@@ -1,3 +1,6 @@
 [submodule "01.first.angular.app"]
 	path = 01.first.angular.app
 	url = ./01.first.angular.app
+[submodule "02.first.spa.app"]
+	path = 02.first.spa.app
+	url = C:/Program Files/Git/02.first.spa.app
