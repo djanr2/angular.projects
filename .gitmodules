@@ -1,0 +1,3 @@
+[submodule "01.first.angular.app"]
+	path = 01.first.angular.app
+	url = ./01.first.angular.app
