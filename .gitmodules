@@ -4,3 +4,6 @@
 [submodule "02.first.spa.app"]
 	path = 02.first.spa.app
 	url = C:/Program Files/Git/02.first.spa.app
+[submodule "03.issue.tracking.system"]
+	path = 03.issue.tracking.system
+	url = https://github.com/djanr2/03.issue.tracking.system.git
