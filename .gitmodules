@@ -7,3 +7,6 @@
 [submodule "03.issue.tracking.system"]
 	path = 03.issue.tracking.system
 	url = https://github.com/djanr2/03.issue.tracking.system.git
+[submodule "04.weather.service.worker"]
+	path = 04.weather.service.worker
+	url = https://github.com/djanr2/04.weather.service.worker.git
